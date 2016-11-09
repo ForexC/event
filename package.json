@@ -21,10 +21,10 @@
   "author": "Wilson Page",
   "license": "MIT",
   "devDependencies": {
-    "browserify": "~2.11.0",
-    "grunt": "~0.4.1",
-    "grunt-contrib-uglify": "~0.2.0",
-    "grunt-contrib-watch": "~0.3.1",
-    "buster": "~0.6.2"
+    "browserify": "~13.1.1",
+    "grunt": "~1.0.1",
+    "grunt-contrib-uglify": "~2.0.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "buster": "~0.7.18"
   }
 }
